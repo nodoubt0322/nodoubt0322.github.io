@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>17go8</title>
+	<link rel="stylesheet" href="css/reset.css">
+	<link rel="stylesheet" href="css/slick.css">
+	<link rel="stylesheet" href="css/slick-theme.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/17go8css.css">
+    </head>
+<body id="order_process">
+<header>
+	<div class="logo fl"><img src="images/logo.png" alt="17go8"></div>
+		<div class="login fr">
+		<ul>
+			<a href="#"><li><i class="fa fa-check-square-o"> 訂閱電子報</i></li></a>
+			<a href="#"><li><i class="fa fa-shopping-cart"> 訂單查詢</i></li></a>
+			<a href="#"><li><i class="fa fa-comments"> 客戶服務</i></li></a>
+			<a href="#"><li><i class="fa fa-user"> 會員登入</i></li></a>
+		</ul>
+	</div>
+	<div class="nav fr">
+		<div class="fb fr"><img src="images/facebook.jpg" alt="17go8粉絲團"></div>
+		<div class="service_phone fr">客服專線：886+2368387</div>
+	</div>
+	<div class="clear"></div>
+	<div class="banner">
+		<div class="banner_cell"><img src="images/banner01.jpg" height="250" width="980" alt=""></div>
+		<div class="banner_cell"><img src="images/banner01.jpg" height="250" width="980" alt=""></div>
+		<div class="banner_cell"><img src="images/banner01.jpg" height="250" width="980" alt=""></div>
+		<div class="banner_cell"><img src="images/banner01.jpg" height="250" width="980" alt=""></div>
+	</div>
+</header>
+<section>	
+	<div class="menu">
+		<div class="title">熱門分類</div>
+		<div class="menu_item">
+			<ul>
+				<li>所有好康</li>
+				<li>今日新品</li>
+				<li>即將下架</li>
+				<li>年度強檔</li>
+				<li>海的響宴</li>
+				<li>饕客力推</li>
+				<li>鮮美螃蟹</li>
+				<li>龍蝦包魚</li>
+				<li>鮭魚鱈魚</li>
+				<li>嚴選鯖魚</li>
+				<li>鮮美螃蟹</li>
+				<li>龍蝦包魚</li>
+				<li>鮮美螃蟹</li>
+				<li>龍蝦包魚</li>
+			</ul>
+		</div>
+	</div>
+	<div class="order_container">
+		<div class="order_process">
+			<div class="pay_method active">選擇付款方式</div> >
+			<div class="buyer_info">填寫收貨人資料</div> >
+			<div class="order_completed">完成訂單</div>
+		</div>
+		<div id="pay_method_container" class="page">
+			<div class="pay_choice_container">
+				<div class="choice_title_container">
+					<div class="choice_title"><i class="fa fa-credit-card"></i> 付款方式</div>
+					<div class="memo_title">備註</div>
+				</div>
+				<div class="pay_choice">
+					<form>
+						<input type="radio" name="pay_choice">信用卡<br>
+						<input type="radio" name="pay_choice">超商代碼繳款-ibon<br>
+						<input type="radio" name="pay_choice">超商代碼繳款-Fami Port<br>
+						<input type="radio" name="pay_choice">網路ATM<br>
+						<input type="radio" name="pay_choice">ATM轉帳<br>
+						<input type="radio" name="pay_choice">貨到付款<br>
+						<input type="radio" name="pay_choice">到店取貨付款<br>
+					</form>
+				</div>
+				<div class="pay_choice_memo">
+					<br>
+					繳款流程-ibon <br>
+					繳款流程-Fami Port <br>
+					需自備讀卡機
+				</div>
+			</div>
+			<div class="shopping_desc_container">
+				<div class="shopping_desc_title"><i class="fa fa-shopping-cart"></i>
+
+ 購物說明(首次購物請詳閱使用說明)</div>
+				<div class="shopping_desc">
+					<ul>
+						<li>全館商品購物滿千免運費</li>
+						<li>單一商品達免運費即可不限金額免運費</li>
+						<li>24小時到貨</li>
+						<li>如持有購物金(満千送百)</li>
+						<li>如持有折價券(滿千送百)</li>
+						<li>購物金折價券取得方式</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div id="buyer_info_container" class="page">
+			<div class="buyer_info_container">
+				<div class="buyer_info_title">確認你的收貨人資料</div>
+				<div class="buyer_info_content">
+					<div class="name">
+						<div class="title">收貨人</div>
+						<input type="text">
+					</div>
+					<div class="address">
+						<div class="title">收貨地址</div>
+						<input type="text">
+					</div>
+					<div class="tel">
+						<div class="title">聯絡電話</div>
+						<input type="text">
+					</div>
+					<div class="mobile">
+						<div class="title">行動電話</div>
+						<input type="text">
+					</div>
+					<div class="mail">
+						<div class="title">電子信箱</div>
+						<input type="text">
+					</div>			
+				</div>
+			</div>
+			<div class="buyer_time_container">
+				<div class="buyer_time_title">
+					<div class="time">希望收件時間</div>
+					<div class="fee">運費</div>
+					<div class="memo">備註</div>
+				</div>
+				<div class="buy_time_content">
+					<div class="time">
+						<input type="radio" name='time'>不確定 <br>
+						<input type="radio" name='time'>上午時段 <br>
+						<input type="radio" name='time'>下午時段 <br>
+						<input type="radio" name='time'>晚上時段 <br>
+					</div>
+					<div class="fee">免運費</div>
+					<div class="memo">貨到付款</div>
+				</div>
+			</div>
+			<div class="buy_ticket_container">
+				<div class="buy_ticket_title">發票開立</div>
+				<div class="buy_ticket_content">
+					<input type="radio" name="ticket">捐贈慈善機購 <br>
+					<input type="radio" name="ticket">個人 <br>
+					<input type="radio" name="ticket">公司行號 <br>
+				</div>
+			</div>
+		</div>
+		<div id="order_completed_container" class="page">
+			親愛的<span class="name">郭奶痿</span>你好, 你的訂單已經送出! <br>
+			感謝您購買本公司產品! 以下為本次訂單明細 <br>
+			<div class="order_detail_desc">
+				<ul>
+					<li><span class="title">訂購時間 :</span>2015-07-17 16:51:59</li>
+					<li><span class="title">訂單編號 :</span>1040707305</li>
+					<li><span class="title">你選擇的方式為:</span>信用卡</li>
+				</ul>
+			</div>
+
+		</div>
+		<div class="order_detail_container clear">
+			<div class="order_detail_title">
+				<div class="del">刪除</div>
+				<div class="name">商品名稱</div>
+				<div class="num">數量</div>
+				<div class="price">單價</div>
+				<div class="total">小計</div>
+			</div>
+			<div class="order_cell">
+				<div class="del"><span class="del_button"><i class="fa fa-trash order_t"></i></span></div>
+				<div class="name">智利珪魚</div>
+				<div class="num">
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+						<option value="6">6</option>
+						<option value="7">7</option>
+						<option value="8">8</option>
+						<option value="9">9</option>
+					</select>
+				</div>
+				<div class="price">198</div>
+				<div class="total">198</div>			
+			</div>
+			<div class="order_cell">
+				<div class="del"><span class="del_button"><i class="fa fa-trash order_t"></i></span></div>
+				<div class="name">智利珪魚</div>
+				<div class="num">
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+						<option value="6">6</option>
+						<option value="7">7</option>
+						<option value="8">8</option>
+						<option value="9">9</option>
+					</select>
+				</div>
+				<div class="price">198</div>
+				<div class="total">198</div>			
+			</div>
+			<div class="order_cell">
+				<div class="del"><span class="del_button"><i class="fa fa-trash order_t"></i></span></div>
+				<div class="name">智利珪魚</div>
+				<div class="num">
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+						<option value="6">6</option>
+						<option value="7">7</option>
+						<option value="8">8</option>
+						<option value="9">9</option>
+					</select>
+				</div>
+				<div class="price">198</div>
+				<div class="total">198</div>			
+			</div>
+			<div class="order_cell">
+				<div class="del"><span class="del_button"><i class="fa fa-trash order_t"></i></span></div>
+				<div class="name">智利珪魚</div>
+				<div class="num">
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+						<option value="6">6</option>
+						<option value="7">7</option>
+						<option value="8">8</option>
+						<option value="9">9</option>
+					</select>
+				</div>
+				<div class="price">198</div>
+				<div class="total">198</div>			
+			</div>
+			<div class="transport_cell">
+				<div class="transport_fee">160</div>
+				<div class="transport_title">運費</div>
+			</div>
+			<div class="total_cell">
+				<div class="total_fee">NT$<span id="sum">952</span></div>
+				<div class="total_title">金額總計</div>
+			</div>
+		</div>
+		<div class="step">
+			<div class="prev">繼續選購</div>
+			<div class="next">下一步</div>
+		</div>
+	</div>
+</section>
+<!-- <div id="buyer_info_container"></div>
+<div id="order_completed_container"></div> -->
+<footer>
+    <div class="footer_cell fl">
+		<div id="fb-root"></div>
+		<script>
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "http://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v2.4&appId=161311883904280";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		</script>
+		<div class="fb-page" data-href="https://www.facebook.com/pages/%E4%B8%80%E8%B5%B7%E8%B3%BC%E7%89%A9%E7%B6%B2/904665656258314" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore">
+		<blockquote cite="https://www.facebook.com/pages/%E4%B8%80%E8%B5%B7%E8%B3%BC%E7%89%A9%E7%B6%B2/904665656258314"><a href="https://www.facebook.com/pages/%E4%B8%80%E8%B5%B7%E8%B3%BC%E7%89%A9%E7%B6%B2/904665656258314">一起購物網</a></blockquote></div></div>
+			<style type="text/css" media="screen"> .fb-page>span { height: 320px !important; overflow:hidden; }</style>
+    </div>
+    <div class="footer_cell fl">
+        <h5><span class="fa fa-shopping-cart"></span>購物須知</h5>
+        <ul>
+            <li><a href="#">購物車使用方式</a></li>
+            <li><a href="#">購物流程說明</a></li>
+            <li><a href="#">付款方式與交易安全</a></li>
+            <li><a href="#">訂單查詢方法</a></li>
+            <li><a href="#">交易紀錄查詢</a></li>
+            <li><a href="#">如何取消訂單</a></li>
+        </ul>
+    </div>
+    <div class="footer_cell fl">
+        <h5><span class="fa fa-truck"></span>物流配送</h5>
+        <ul>
+            <li><a href="#">物流配送說明</a></li>
+            <li><a href="#">全館運費說明</a></li>
+            <li><a href="#">購買商品追蹤查詢</a></li>
+            <li><a href="#">商品退換貨須知</a></li>
+        </ul>
+    </div>
+    <div class="footer_cell fl">
+        <h5><span class="fa fa-user"></span>會員中心</h5>
+        <ul>
+            <li><a href="#">會員等級與權益說明</a></li>
+            <li><a href="#">會員權益條款</a></li>
+            <li><a href="#">如何加入會員</a></li>
+            <li><a href="#">忘記帳號與密碼</a></li>
+            <li><a href="#">修改會員資料</a></li>
+            <li><a href="#">紅利點數查詢</a></li>
+            <li><a href="#">訂閱每月情報</a></li>
+        </ul>
+    </div>
+    <div class="footer_cell fl">
+        <h5><span class="fa fa-archive"></span>公司簡介</h5>
+        <ul>
+             <li><a href="#">公司簡介</a></li>
+            <li><a href="#">聯絡我們</a></li>
+            <li><a href="#">廠商合作</a></li>
+            <li><a href="privacy.html">隱私保護</a><a href="#"></a></li>
+        </ul>
+    </div>
+</footer>
+<script src="js/jquery-1.11.2.min.js"></script>
+<script src="js/slick.min.js"></script>
+<script src="js/main.js"></script>	
+</body>
+</html>
