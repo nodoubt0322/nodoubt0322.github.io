@@ -1,0 +1,969 @@
+[25-Dec-2013 22:06:09 Asia/Taipei] CSRF state token does not match one provided.
+[27-Dec-2013 11:51:43 Asia/Taipei] PHP Warning:  file_get_contents(https://graph.facebook.com/ifriendc_2013/picture): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home2/ifriendc/public_html/facebook2/index.php on line 51
+[27-Dec-2013 11:51:45 Asia/Taipei] PHP Warning:  file_get_contents(https://graph.facebook.com/ifriendc_2013/picture): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home2/ifriendc/public_html/facebook2/index.php on line 51
+[27-Dec-2013 11:54:17 Asia/Taipei] PHP Warning:  file_get_contents(https://graph.facebook.com/ifriendc_2013/picture): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home2/ifriendc/public_html/facebook2/index.php on line 52
+[27-Dec-2013 11:57:45 Asia/Taipei] PHP Warning:  file_get_contents(https://graph.facebook.com/ifriendc_2013/picture): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home2/ifriendc/public_html/facebook2/index.php on line 52
+[27-Dec-2013 11:57:45 Asia/Taipei] PHP Warning:  fopen(../pic/headpic/100000104635612.com/ifriendc_2013/picture): failed to open stream: No such file or directory in /home2/ifriendc/public_html/facebook2/index.php on line 53
+[27-Dec-2013 11:57:45 Asia/Taipei] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 54
+[27-Dec-2013 11:57:45 Asia/Taipei] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 55
+[29-Dec-2013 17:37:46 Asia/Taipei] PHP Warning:  file_get_contents(https://graph.facebook.com/ifriendc_2013/picture): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home2/ifriendc/public_html/facebook2/index.php on line 52
+[29-Dec-2013 17:37:46 Asia/Taipei] PHP Warning:  fopen(../pic/headpic/100000104635612.com/ifriendc_2013/picture): failed to open stream: No such file or directory in /home2/ifriendc/public_html/facebook2/index.php on line 53
+[29-Dec-2013 17:37:46 Asia/Taipei] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 54
+[29-Dec-2013 17:37:46 Asia/Taipei] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 55
+[29-Dec-2013 17:39:55 Asia/Taipei] PHP Warning:  file_get_contents(https://graph.facebook.com/ifriendc_2013/picture): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home2/ifriendc/public_html/facebook2/index.php on line 53
+[29-Dec-2013 18:01:34 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 82
+[29-Dec-2013 19:10:15 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 82
+[29-Dec-2013 22:05:45 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 51
+[29-Dec-2013 22:05:45 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[30-Dec-2013 09:50:39 Asia/Taipei] CSRF state token does not match one provided.
+[30-Dec-2013 09:50:39 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 51
+[30-Dec-2013 09:50:39 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[30-Dec-2013 09:57:25 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 51
+[30-Dec-2013 09:57:25 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[30-Dec-2013 10:08:29 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 51
+[30-Dec-2013 10:08:29 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[30-Dec-2013 12:37:10 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[30-Dec-2013 12:37:10 Asia/Taipei] CSRF state token does not match one provided.
+[30-Dec-2013 12:37:10 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 51
+[30-Dec-2013 12:37:10 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[30-Dec-2013 21:50:22 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[30-Dec-2013 21:50:22 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[30-Dec-2013 21:50:22 Asia/Taipei] CSRF state token does not match one provided.
+[30-Dec-2013 21:50:22 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 51
+[30-Dec-2013 21:50:22 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 10:43:38 Asia/Taipei] CSRF state token does not match one provided.
+[01-Jan-2014 10:43:38 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 51
+[01-Jan-2014 10:43:38 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:05:59 Asia/Taipei] CSRF state token does not match one provided.
+[01-Jan-2014 12:05:59 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:10 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:11 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:12 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:12 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:12 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:13 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:13 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:14 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:14 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:15 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:16 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:16 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:16 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:17 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:17 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:18 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:18 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:19 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:19 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:20 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:20 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:21 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:21 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:22 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:22 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:23 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:23 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:24 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:24 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:25 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:25 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:26 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:26 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 12:06:27 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 86
+[01-Jan-2014 14:52:34 Asia/Taipei] CSRF state token does not match one provided.
+[01-Jan-2014 14:52:34 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[01-Jan-2014 14:52:34 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[01-Jan-2014 14:52:34 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[01-Jan-2014 14:52:34 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[01-Jan-2014 14:52:34 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[01-Jan-2014 14:52:34 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[01-Jan-2014 15:16:54 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[01-Jan-2014 15:16:54 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[01-Jan-2014 15:16:54 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[01-Jan-2014 15:16:54 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[01-Jan-2014 15:16:54 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[01-Jan-2014 15:16:54 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[01-Jan-2014 15:25:56 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[01-Jan-2014 15:25:56 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[01-Jan-2014 15:25:56 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[01-Jan-2014 15:25:56 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[01-Jan-2014 15:25:56 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[01-Jan-2014 15:25:56 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[01-Jan-2014 15:27:15 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[01-Jan-2014 15:28:01 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[01-Jan-2014 15:28:01 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[01-Jan-2014 15:28:01 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[01-Jan-2014 15:28:01 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[01-Jan-2014 15:28:01 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[01-Jan-2014 15:28:01 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[01-Jan-2014 15:33:00 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[01-Jan-2014 15:33:00 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[01-Jan-2014 15:33:00 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[01-Jan-2014 15:33:00 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[01-Jan-2014 15:33:00 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[01-Jan-2014 15:33:00 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[01-Jan-2014 15:39:37 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[01-Jan-2014 15:39:37 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[01-Jan-2014 15:39:37 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[01-Jan-2014 15:39:37 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[01-Jan-2014 15:39:37 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[01-Jan-2014 15:39:37 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[01-Jan-2014 15:42:23 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[01-Jan-2014 15:42:23 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[01-Jan-2014 15:42:23 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[01-Jan-2014 15:42:23 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[01-Jan-2014 15:42:23 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[01-Jan-2014 15:42:23 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[01-Jan-2014 17:16:17 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[02-Jan-2014 00:05:47 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[02-Jan-2014 00:05:47 Asia/Taipei] CSRF state token does not match one provided.
+[02-Jan-2014 00:05:47 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[02-Jan-2014 00:05:47 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[02-Jan-2014 00:05:47 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[02-Jan-2014 00:05:47 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[02-Jan-2014 00:05:47 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[02-Jan-2014 00:05:47 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[02-Jan-2014 18:08:33 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[02-Jan-2014 18:08:33 Asia/Taipei] CSRF state token does not match one provided.
+[02-Jan-2014 18:08:33 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[02-Jan-2014 18:08:33 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[02-Jan-2014 18:08:33 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[02-Jan-2014 18:08:33 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[02-Jan-2014 18:08:33 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[02-Jan-2014 18:08:33 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[02-Jan-2014 22:09:18 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[02-Jan-2014 22:09:18 Asia/Taipei] CSRF state token does not match one provided.
+[02-Jan-2014 22:09:18 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[02-Jan-2014 22:09:18 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[02-Jan-2014 22:09:18 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[02-Jan-2014 22:09:18 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[02-Jan-2014 22:09:18 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[02-Jan-2014 22:09:18 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[03-Jan-2014 22:24:09 Asia/Taipei] CSRF state token does not match one provided.
+[03-Jan-2014 22:24:09 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[04-Jan-2014 21:39:41 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[04-Jan-2014 21:39:41 Asia/Taipei] CSRF state token does not match one provided.
+[04-Jan-2014 21:39:41 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[05-Jan-2014 10:54:00 Asia/Taipei] CSRF state token does not match one provided.
+[05-Jan-2014 10:54:00 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[05-Jan-2014 19:58:32 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[05-Jan-2014 19:58:32 Asia/Taipei] CSRF state token does not match one provided.
+[05-Jan-2014 19:58:32 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[05-Jan-2014 19:58:32 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[05-Jan-2014 19:58:32 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[05-Jan-2014 19:58:32 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[05-Jan-2014 19:58:32 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[05-Jan-2014 19:58:32 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[07-Jan-2014 04:23:26 Asia/Taipei] CSRF state token does not match one provided.
+[07-Jan-2014 04:23:26 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[07-Jan-2014 04:23:26 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[07-Jan-2014 04:23:26 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[07-Jan-2014 04:23:26 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[07-Jan-2014 04:23:26 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[07-Jan-2014 04:23:26 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[07-Jan-2014 05:42:04 Asia/Taipei] CSRF state token does not match one provided.
+[07-Jan-2014 05:42:04 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[07-Jan-2014 05:42:04 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[07-Jan-2014 05:42:04 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[07-Jan-2014 05:42:04 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[07-Jan-2014 05:42:04 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[07-Jan-2014 05:42:04 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[07-Jan-2014 05:45:24 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[10-Jan-2014 01:18:49 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[10-Jan-2014 01:18:49 Asia/Taipei] CSRF state token does not match one provided.
+[10-Jan-2014 01:18:49 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[10-Jan-2014 01:18:49 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[10-Jan-2014 01:18:49 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[10-Jan-2014 01:18:49 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[10-Jan-2014 01:18:49 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[10-Jan-2014 01:18:49 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[10-Jan-2014 12:42:59 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[10-Jan-2014 12:42:59 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[10-Jan-2014 12:44:49 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[10-Jan-2014 12:44:49 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[10-Jan-2014 12:49:38 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[10-Jan-2014 12:49:38 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[12-Jan-2014 19:36:42 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[12-Jan-2014 19:36:42 Asia/Taipei] CSRF state token does not match one provided.
+[12-Jan-2014 19:36:42 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[12-Jan-2014 19:36:42 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[12-Jan-2014 19:36:42 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[12-Jan-2014 19:36:42 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[12-Jan-2014 19:36:42 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[12-Jan-2014 19:36:42 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[12-Jan-2014 19:44:49 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[12-Jan-2014 19:44:49 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[13-Jan-2014 18:31:50 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[13-Jan-2014 18:31:50 Asia/Taipei] CSRF state token does not match one provided.
+[13-Jan-2014 18:31:50 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[13-Jan-2014 18:31:50 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[13-Jan-2014 18:31:50 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[13-Jan-2014 18:31:50 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[13-Jan-2014 18:31:50 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[13-Jan-2014 18:31:50 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[13-Jan-2014 18:39:01 Asia/Taipei] CSRF state token does not match one provided.
+[13-Jan-2014 18:39:01 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[13-Jan-2014 18:39:01 Asia/Taipei] CSRF state token does not match one provided.
+[13-Jan-2014 18:39:01 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[13-Jan-2014 18:39:29 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[13-Jan-2014 18:39:29 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[13-Jan-2014 20:57:58 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[13-Jan-2014 20:57:58 Asia/Taipei] CSRF state token does not match one provided.
+[13-Jan-2014 20:57:58 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[13-Jan-2014 20:57:58 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[13-Jan-2014 20:57:58 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[13-Jan-2014 20:57:58 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[13-Jan-2014 20:57:58 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[13-Jan-2014 20:57:58 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[14-Jan-2014 21:21:58 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[14-Jan-2014 21:21:58 Asia/Taipei] CSRF state token does not match one provided.
+[14-Jan-2014 21:21:58 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[14-Jan-2014 21:21:58 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[14-Jan-2014 21:21:58 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[14-Jan-2014 21:21:58 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[14-Jan-2014 21:21:58 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[14-Jan-2014 21:21:58 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[14-Jan-2014 21:23:13 Asia/Taipei] CSRF state token does not match one provided.
+[14-Jan-2014 21:23:13 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[14-Jan-2014 21:23:13 Asia/Taipei] CSRF state token does not match one provided.
+[14-Jan-2014 21:23:13 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[16-Jan-2014 03:52:16 Asia/Taipei] CSRF state token does not match one provided.
+[16-Jan-2014 03:52:16 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[16-Jan-2014 03:52:16 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[16-Jan-2014 03:52:16 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[16-Jan-2014 03:52:16 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[16-Jan-2014 03:52:16 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[16-Jan-2014 03:52:16 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[16-Jan-2014 10:32:47 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[16-Jan-2014 10:32:47 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[16-Jan-2014 10:32:47 Asia/Taipei] CSRF state token does not match one provided.
+[16-Jan-2014 10:32:47 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[16-Jan-2014 10:32:47 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[16-Jan-2014 10:32:47 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[16-Jan-2014 10:32:47 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[16-Jan-2014 10:32:47 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[16-Jan-2014 10:32:47 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[19-Jan-2014 16:36:25 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[19-Jan-2014 16:36:25 Asia/Taipei] CSRF state token does not match one provided.
+[19-Jan-2014 16:36:25 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[19-Jan-2014 16:36:25 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[19-Jan-2014 16:36:25 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[19-Jan-2014 16:36:25 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[19-Jan-2014 16:36:25 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[19-Jan-2014 16:36:25 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[19-Jan-2014 21:22:03 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[19-Jan-2014 21:22:03 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[19-Jan-2014 21:22:03 Asia/Taipei] CSRF state token does not match one provided.
+[19-Jan-2014 21:22:03 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[19-Jan-2014 21:22:03 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[19-Jan-2014 21:22:03 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[19-Jan-2014 21:22:03 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[19-Jan-2014 21:22:03 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[19-Jan-2014 21:22:03 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[20-Jan-2014 19:34:59 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[20-Jan-2014 19:34:59 Asia/Taipei] CSRF state token does not match one provided.
+[20-Jan-2014 19:34:59 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[20-Jan-2014 19:34:59 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[20-Jan-2014 19:34:59 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[20-Jan-2014 19:34:59 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[20-Jan-2014 19:34:59 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[20-Jan-2014 19:34:59 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[21-Jan-2014 00:21:22 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[21-Jan-2014 00:21:22 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[21-Jan-2014 00:21:22 Asia/Taipei] CSRF state token does not match one provided.
+[21-Jan-2014 00:21:22 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[21-Jan-2014 00:21:22 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[21-Jan-2014 00:21:22 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[21-Jan-2014 00:21:22 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[21-Jan-2014 00:21:22 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[21-Jan-2014 00:21:22 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[21-Jan-2014 00:23:12 Asia/Taipei] CSRF state token does not match one provided.
+[21-Jan-2014 00:23:13 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[21-Jan-2014 00:23:13 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[21-Jan-2014 00:23:13 Asia/Taipei] CSRF state token does not match one provided.
+[21-Jan-2014 00:23:13 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[21-Jan-2014 00:23:13 Asia/Taipei] CSRF state token does not match one provided.
+[21-Jan-2014 00:23:14 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[21-Jan-2014 00:23:14 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[21-Jan-2014 00:23:14 Asia/Taipei] CSRF state token does not match one provided.
+[21-Jan-2014 00:23:14 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[21-Jan-2014 00:23:14 Asia/Taipei] CSRF state token does not match one provided.
+[21-Jan-2014 00:23:15 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[21-Jan-2014 00:23:15 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[21-Jan-2014 00:23:15 Asia/Taipei] CSRF state token does not match one provided.
+[21-Jan-2014 00:23:15 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[21-Jan-2014 00:23:15 Asia/Taipei] CSRF state token does not match one provided.
+[21-Jan-2014 00:23:15 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[21-Jan-2014 00:23:15 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[21-Jan-2014 00:23:15 Asia/Taipei] CSRF state token does not match one provided.
+[21-Jan-2014 00:23:16 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[21-Jan-2014 00:23:16 Asia/Taipei] CSRF state token does not match one provided.
+[21-Jan-2014 00:23:16 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[21-Jan-2014 00:23:16 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[21-Jan-2014 00:23:16 Asia/Taipei] CSRF state token does not match one provided.
+[21-Jan-2014 00:23:16 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[28-Jan-2014 16:05:42 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[28-Jan-2014 16:05:42 Asia/Taipei] CSRF state token does not match one provided.
+[28-Jan-2014 16:05:42 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[28-Jan-2014 16:05:42 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[28-Jan-2014 16:05:42 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[28-Jan-2014 16:05:42 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[28-Jan-2014 16:05:42 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[28-Jan-2014 16:05:42 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[28-Jan-2014 16:10:08 Asia/Taipei] CSRF state token does not match one provided.
+[28-Jan-2014 16:10:09 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[28-Jan-2014 16:10:09 Asia/Taipei] CSRF state token does not match one provided.
+[28-Jan-2014 16:10:09 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[28-Jan-2014 16:10:26 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[28-Jan-2014 16:10:26 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[28-Jan-2014 16:20:48 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[28-Jan-2014 16:20:48 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[02-Feb-2014 10:47:25 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[02-Feb-2014 10:47:25 Asia/Taipei] CSRF state token does not match one provided.
+[02-Feb-2014 10:47:25 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[02-Feb-2014 10:47:25 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[02-Feb-2014 10:47:25 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[02-Feb-2014 10:47:25 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[02-Feb-2014 10:47:25 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[02-Feb-2014 10:47:25 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[03-Feb-2014 05:26:43 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[03-Feb-2014 05:26:43 Asia/Taipei] CSRF state token does not match one provided.
+[03-Feb-2014 05:26:43 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[03-Feb-2014 05:26:43 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[03-Feb-2014 05:26:43 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[03-Feb-2014 05:26:43 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[03-Feb-2014 05:26:43 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[03-Feb-2014 05:26:43 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[03-Feb-2014 06:45:24 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[03-Feb-2014 06:45:24 Asia/Taipei] CSRF state token does not match one provided.
+[03-Feb-2014 06:45:24 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[03-Feb-2014 13:46:23 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[03-Feb-2014 13:46:23 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[03-Feb-2014 13:46:23 Asia/Taipei] CSRF state token does not match one provided.
+[03-Feb-2014 13:46:23 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[03-Feb-2014 13:46:23 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[03-Feb-2014 13:46:23 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[03-Feb-2014 13:46:23 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[03-Feb-2014 13:46:23 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[03-Feb-2014 13:46:23 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[03-Feb-2014 13:54:53 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[03-Feb-2014 13:54:53 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[03-Feb-2014 13:54:53 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[03-Feb-2014 13:57:50 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[03-Feb-2014 13:57:50 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[03-Feb-2014 13:57:50 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[03-Feb-2014 14:14:52 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[03-Feb-2014 14:14:52 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[03-Feb-2014 14:14:52 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[04-Feb-2014 00:19:08 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[04-Feb-2014 00:19:08 Asia/Taipei] CSRF state token does not match one provided.
+[04-Feb-2014 00:19:08 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[04-Feb-2014 00:20:08 Asia/Taipei] CSRF state token does not match one provided.
+[04-Feb-2014 00:20:09 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[04-Feb-2014 00:20:09 Asia/Taipei] CSRF state token does not match one provided.
+[04-Feb-2014 00:20:09 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[04-Feb-2014 14:57:14 Asia/Taipei] CSRF state token does not match one provided.
+[04-Feb-2014 14:57:14 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[04-Feb-2014 14:57:15 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[04-Feb-2014 14:57:15 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[04-Feb-2014 14:57:15 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[04-Feb-2014 14:57:15 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[04-Feb-2014 14:57:15 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[04-Feb-2014 14:58:19 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[04-Feb-2014 14:58:20 Asia/Taipei] CSRF state token does not match one provided.
+[04-Feb-2014 14:58:21 Asia/Taipei] CSRF state token does not match one provided.
+[04-Feb-2014 14:58:21 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[04-Feb-2014 14:58:22 Asia/Taipei] CSRF state token does not match one provided.
+[04-Feb-2014 14:58:23 Asia/Taipei] CSRF state token does not match one provided.
+[04-Feb-2014 14:58:23 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[05-Feb-2014 09:23:07 Asia/Taipei] CSRF state token does not match one provided.
+[05-Feb-2014 09:23:07 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[05-Feb-2014 09:23:56 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[06-Feb-2014 10:16:22 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[06-Feb-2014 10:16:22 Asia/Taipei] CSRF state token does not match one provided.
+[06-Feb-2014 10:16:22 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[06-Feb-2014 10:16:22 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[06-Feb-2014 10:16:22 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[06-Feb-2014 10:16:22 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[06-Feb-2014 10:16:22 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[06-Feb-2014 10:16:22 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[06-Feb-2014 10:31:10 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[06-Feb-2014 10:31:10 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[08-Feb-2014 01:56:46 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[08-Feb-2014 01:56:46 Asia/Taipei] CSRF state token does not match one provided.
+[08-Feb-2014 01:56:50 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[08-Feb-2014 01:56:50 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[08-Feb-2014 01:56:50 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[08-Feb-2014 01:56:50 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[08-Feb-2014 01:56:50 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[08-Feb-2014 01:56:50 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[09-Feb-2014 03:19:52 Asia/Taipei] CSRF state token does not match one provided.
+[09-Feb-2014 03:19:53 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[09-Feb-2014 03:19:53 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[09-Feb-2014 03:19:53 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[09-Feb-2014 03:19:53 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[09-Feb-2014 03:19:53 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[09-Feb-2014 03:19:53 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[09-Feb-2014 04:30:55 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[09-Feb-2014 04:30:55 Asia/Taipei] CSRF state token does not match one provided.
+[09-Feb-2014 04:30:55 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[09-Feb-2014 04:30:55 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[09-Feb-2014 04:30:55 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[09-Feb-2014 04:30:55 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[09-Feb-2014 04:30:55 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[09-Feb-2014 04:30:55 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[09-Feb-2014 04:33:23 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[09-Feb-2014 04:33:23 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[09-Feb-2014 06:52:20 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[09-Feb-2014 06:52:20 Asia/Taipei] CSRF state token does not match one provided.
+[09-Feb-2014 06:52:20 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[09-Feb-2014 06:52:20 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[09-Feb-2014 06:52:20 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[09-Feb-2014 06:52:20 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[09-Feb-2014 06:52:20 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[09-Feb-2014 06:52:20 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[10-Feb-2014 10:51:23 Asia/Taipei] CSRF state token does not match one provided.
+[10-Feb-2014 10:51:23 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[10-Feb-2014 10:51:23 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[10-Feb-2014 10:51:23 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[10-Feb-2014 10:51:23 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[10-Feb-2014 10:51:23 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[10-Feb-2014 10:51:23 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[10-Feb-2014 13:26:04 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[10-Feb-2014 13:26:04 Asia/Taipei] CSRF state token does not match one provided.
+[10-Feb-2014 13:26:04 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[10-Feb-2014 13:26:04 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[10-Feb-2014 13:26:04 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[10-Feb-2014 13:26:04 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[10-Feb-2014 13:26:04 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[10-Feb-2014 13:26:04 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[10-Feb-2014 14:16:08 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[10-Feb-2014 14:16:08 Asia/Taipei] CSRF state token does not match one provided.
+[10-Feb-2014 14:16:08 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[10-Feb-2014 14:16:08 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[10-Feb-2014 14:16:08 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[10-Feb-2014 14:16:08 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[10-Feb-2014 14:16:08 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[10-Feb-2014 14:16:08 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[10-Feb-2014 14:42:25 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[10-Feb-2014 14:42:25 Asia/Taipei] CSRF state token does not match one provided.
+[10-Feb-2014 14:42:25 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[10-Feb-2014 14:42:25 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[10-Feb-2014 14:42:25 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[10-Feb-2014 14:42:25 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[10-Feb-2014 14:42:25 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[10-Feb-2014 14:42:25 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[11-Feb-2014 20:26:32 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[11-Feb-2014 20:26:32 Asia/Taipei] CSRF state token does not match one provided.
+[11-Feb-2014 20:26:32 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[11-Feb-2014 20:26:32 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[11-Feb-2014 20:26:32 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[11-Feb-2014 20:26:32 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[11-Feb-2014 20:26:32 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[11-Feb-2014 20:26:32 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[12-Feb-2014 08:12:50 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[12-Feb-2014 08:12:50 Asia/Taipei] CSRF state token does not match one provided.
+[12-Feb-2014 08:12:50 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[12-Feb-2014 08:12:50 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[12-Feb-2014 08:12:50 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[12-Feb-2014 08:12:50 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[12-Feb-2014 08:12:50 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[12-Feb-2014 08:12:50 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[12-Feb-2014 14:10:13 Asia/Taipei] CSRF state token does not match one provided.
+[12-Feb-2014 14:10:13 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[12-Feb-2014 14:10:13 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[12-Feb-2014 14:10:13 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[12-Feb-2014 14:10:13 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[12-Feb-2014 14:10:13 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[12-Feb-2014 14:10:13 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[12-Feb-2014 15:08:59 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[12-Feb-2014 15:08:59 Asia/Taipei] CSRF state token does not match one provided.
+[12-Feb-2014 15:08:59 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[12-Feb-2014 15:08:59 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[12-Feb-2014 15:08:59 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[12-Feb-2014 15:08:59 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[12-Feb-2014 15:08:59 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[12-Feb-2014 15:08:59 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[12-Feb-2014 18:54:44 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[12-Feb-2014 18:54:44 Asia/Taipei] CSRF state token does not match one provided.
+[12-Feb-2014 18:54:44 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[12-Feb-2014 18:54:44 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[12-Feb-2014 18:54:44 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[12-Feb-2014 18:54:44 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[12-Feb-2014 18:54:44 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[12-Feb-2014 18:54:44 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[13-Feb-2014 13:12:22 Asia/Taipei] CSRF state token does not match one provided.
+[13-Feb-2014 13:12:24 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[13-Feb-2014 13:12:24 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[13-Feb-2014 13:12:24 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[13-Feb-2014 13:12:24 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[13-Feb-2014 13:12:24 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[13-Feb-2014 13:12:24 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[15-Feb-2014 11:01:40 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[15-Feb-2014 11:01:40 Asia/Taipei] CSRF state token does not match one provided.
+[15-Feb-2014 11:01:41 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[15-Feb-2014 11:01:41 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[15-Feb-2014 11:01:41 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[15-Feb-2014 11:01:41 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[15-Feb-2014 11:01:41 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[15-Feb-2014 11:01:41 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[15-Feb-2014 15:16:40 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[15-Feb-2014 15:16:40 Asia/Taipei] CSRF state token does not match one provided.
+[15-Feb-2014 15:16:40 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[15-Feb-2014 15:16:40 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[15-Feb-2014 15:16:40 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[15-Feb-2014 15:16:40 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[15-Feb-2014 15:16:40 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[15-Feb-2014 15:16:40 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[15-Feb-2014 15:43:32 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[15-Feb-2014 15:43:32 Asia/Taipei] CSRF state token does not match one provided.
+[15-Feb-2014 15:43:32 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[15-Feb-2014 18:00:03 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[15-Feb-2014 18:00:03 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[15-Feb-2014 19:59:52 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[15-Feb-2014 19:59:52 Asia/Taipei] CSRF state token does not match one provided.
+[15-Feb-2014 19:59:52 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[15-Feb-2014 23:42:56 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[15-Feb-2014 23:42:56 Asia/Taipei] CSRF state token does not match one provided.
+[15-Feb-2014 23:42:56 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[15-Feb-2014 23:42:56 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[15-Feb-2014 23:42:56 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[15-Feb-2014 23:42:56 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[15-Feb-2014 23:42:56 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[15-Feb-2014 23:42:56 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[15-Feb-2014 23:43:35 Asia/Taipei] CSRF state token does not match one provided.
+[15-Feb-2014 23:43:36 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[15-Feb-2014 23:43:36 Asia/Taipei] CSRF state token does not match one provided.
+[15-Feb-2014 23:43:36 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[16-Feb-2014 00:12:48 Asia/Taipei] CSRF state token does not match one provided.
+[16-Feb-2014 00:12:48 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[16-Feb-2014 00:12:48 Asia/Taipei] CSRF state token does not match one provided.
+[16-Feb-2014 00:12:48 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[16-Feb-2014 00:13:04 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[16-Feb-2014 00:13:04 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[16-Feb-2014 09:48:39 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[16-Feb-2014 09:48:39 Asia/Taipei] CSRF state token does not match one provided.
+[16-Feb-2014 09:48:39 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[16-Feb-2014 09:48:39 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[16-Feb-2014 09:48:39 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[16-Feb-2014 09:48:39 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[16-Feb-2014 09:48:39 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[16-Feb-2014 09:48:39 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[16-Feb-2014 21:01:17 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[16-Feb-2014 21:01:17 Asia/Taipei] CSRF state token does not match one provided.
+[16-Feb-2014 21:01:17 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[17-Feb-2014 02:21:01 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[17-Feb-2014 02:21:01 Asia/Taipei] CSRF state token does not match one provided.
+[17-Feb-2014 02:21:01 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[17-Feb-2014 02:21:01 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[17-Feb-2014 02:21:01 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[17-Feb-2014 02:21:01 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[17-Feb-2014 02:21:01 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[17-Feb-2014 02:21:01 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[17-Feb-2014 03:10:35 Asia/Taipei] CSRF state token does not match one provided.
+[17-Feb-2014 03:10:35 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[17-Feb-2014 03:10:35 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[17-Feb-2014 03:10:35 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[17-Feb-2014 03:10:35 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[17-Feb-2014 03:10:35 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[17-Feb-2014 03:10:35 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[17-Feb-2014 15:07:16 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[17-Feb-2014 15:07:16 Asia/Taipei] CSRF state token does not match one provided.
+[17-Feb-2014 15:07:16 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[17-Feb-2014 15:07:16 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[17-Feb-2014 15:07:16 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[17-Feb-2014 15:07:16 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[17-Feb-2014 15:07:16 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[17-Feb-2014 15:07:16 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[17-Feb-2014 19:37:15 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[17-Feb-2014 19:37:15 Asia/Taipei] CSRF state token does not match one provided.
+[17-Feb-2014 19:37:15 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[17-Feb-2014 19:37:15 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[17-Feb-2014 19:37:15 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[17-Feb-2014 19:37:15 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[17-Feb-2014 19:37:15 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[17-Feb-2014 19:37:15 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[17-Feb-2014 19:39:44 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[17-Feb-2014 19:39:44 Asia/Taipei] CSRF state token does not match one provided.
+[17-Feb-2014 19:39:44 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[18-Feb-2014 19:07:35 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[18-Feb-2014 19:07:35 Asia/Taipei] CSRF state token does not match one provided.
+[18-Feb-2014 19:07:35 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[18-Feb-2014 19:07:35 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[18-Feb-2014 19:07:35 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[18-Feb-2014 19:07:35 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[18-Feb-2014 19:07:35 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[18-Feb-2014 19:07:35 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[18-Feb-2014 22:03:57 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[18-Feb-2014 22:03:57 Asia/Taipei] CSRF state token does not match one provided.
+[18-Feb-2014 22:03:57 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[20-Feb-2014 00:38:27 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[20-Feb-2014 00:38:27 Asia/Taipei] CSRF state token does not match one provided.
+[20-Feb-2014 00:38:27 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[20-Feb-2014 00:38:27 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[20-Feb-2014 00:38:27 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[20-Feb-2014 00:38:27 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[20-Feb-2014 00:38:27 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[20-Feb-2014 00:38:27 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[20-Feb-2014 00:49:39 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[20-Feb-2014 00:49:39 Asia/Taipei] CSRF state token does not match one provided.
+[20-Feb-2014 00:49:39 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[20-Feb-2014 00:49:39 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[20-Feb-2014 00:49:39 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[20-Feb-2014 00:49:39 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[20-Feb-2014 00:49:39 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[20-Feb-2014 00:49:39 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[21-Feb-2014 04:25:33 Asia/Taipei] CSRF state token does not match one provided.
+[21-Feb-2014 04:25:33 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[21-Feb-2014 04:25:33 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[21-Feb-2014 04:25:33 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[21-Feb-2014 04:25:33 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[21-Feb-2014 04:25:33 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[21-Feb-2014 04:25:33 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[22-Feb-2014 05:45:37 Asia/Taipei] CSRF state token does not match one provided.
+[22-Feb-2014 05:45:37 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[22-Feb-2014 05:45:37 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[22-Feb-2014 05:45:37 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[22-Feb-2014 05:45:37 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[22-Feb-2014 05:45:37 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[22-Feb-2014 05:45:37 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[22-Feb-2014 11:30:08 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[22-Feb-2014 11:30:08 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[22-Feb-2014 11:30:08 Asia/Taipei] CSRF state token does not match one provided.
+[22-Feb-2014 11:30:09 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[22-Feb-2014 11:30:09 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[22-Feb-2014 11:30:09 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[22-Feb-2014 11:30:09 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[22-Feb-2014 11:30:09 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[22-Feb-2014 11:30:09 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[23-Feb-2014 09:21:23 Asia/Taipei] CSRF state token does not match one provided.
+[23-Feb-2014 09:21:27 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[23-Feb-2014 09:21:27 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[23-Feb-2014 09:21:27 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[23-Feb-2014 09:21:27 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[23-Feb-2014 09:21:27 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[23-Feb-2014 09:21:27 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[23-Feb-2014 09:32:43 Asia/Taipei] CSRF state token does not match one provided.
+[23-Feb-2014 09:32:43 Asia/Taipei] CSRF state token does not match one provided.
+[23-Feb-2014 09:32:43 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[23-Feb-2014 17:06:49 Asia/Taipei] CSRF state token does not match one provided.
+[23-Feb-2014 17:06:49 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[23-Feb-2014 17:06:49 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[23-Feb-2014 17:06:49 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[23-Feb-2014 17:06:49 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[23-Feb-2014 17:06:49 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[23-Feb-2014 17:06:49 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[25-Feb-2014 15:12:34 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[25-Feb-2014 15:12:34 Asia/Taipei] CSRF state token does not match one provided.
+[25-Feb-2014 15:12:34 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[25-Feb-2014 15:12:34 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[25-Feb-2014 15:12:34 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[25-Feb-2014 15:12:34 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[25-Feb-2014 15:12:34 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[25-Feb-2014 15:12:34 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[25-Feb-2014 16:29:47 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[25-Feb-2014 16:29:47 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[25-Feb-2014 16:29:47 Asia/Taipei] CSRF state token does not match one provided.
+[25-Feb-2014 16:29:47 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[25-Feb-2014 16:29:47 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[25-Feb-2014 16:29:47 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[25-Feb-2014 16:29:47 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[25-Feb-2014 16:29:47 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[25-Feb-2014 16:29:47 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[25-Feb-2014 16:31:19 Asia/Taipei] CSRF state token does not match one provided.
+[25-Feb-2014 16:31:19 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[25-Feb-2014 16:31:19 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[25-Feb-2014 16:31:19 Asia/Taipei] CSRF state token does not match one provided.
+[25-Feb-2014 16:31:19 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[25-Feb-2014 16:31:44 Asia/Taipei] CSRF state token does not match one provided.
+[25-Feb-2014 16:31:45 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[25-Feb-2014 16:31:45 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[25-Feb-2014 16:31:45 Asia/Taipei] CSRF state token does not match one provided.
+[25-Feb-2014 16:31:45 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[25-Feb-2014 16:39:41 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[25-Feb-2014 16:39:41 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[25-Feb-2014 16:39:41 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[26-Feb-2014 01:03:22 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[26-Feb-2014 01:03:22 Asia/Taipei] CSRF state token does not match one provided.
+[26-Feb-2014 01:03:22 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[26-Feb-2014 01:03:22 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[26-Feb-2014 01:03:22 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[26-Feb-2014 01:03:22 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[26-Feb-2014 01:03:22 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[26-Feb-2014 01:03:22 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[26-Feb-2014 08:47:07 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[26-Feb-2014 08:47:07 Asia/Taipei] CSRF state token does not match one provided.
+[26-Feb-2014 08:47:07 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[26-Feb-2014 08:47:07 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[26-Feb-2014 08:47:07 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[26-Feb-2014 08:47:07 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[26-Feb-2014 08:47:07 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[26-Feb-2014 08:47:07 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[26-Feb-2014 08:57:33 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[26-Feb-2014 08:57:33 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[26-Feb-2014 09:09:30 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[26-Feb-2014 09:09:30 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[27-Feb-2014 20:48:25 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[27-Feb-2014 20:48:25 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[27-Feb-2014 20:48:25 Asia/Taipei] CSRF state token does not match one provided.
+[27-Feb-2014 20:48:25 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[27-Feb-2014 20:48:25 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[27-Feb-2014 20:48:25 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[27-Feb-2014 20:48:25 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[27-Feb-2014 20:48:25 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[27-Feb-2014 20:48:25 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[28-Feb-2014 19:02:15 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[28-Feb-2014 19:02:15 Asia/Taipei] CSRF state token does not match one provided.
+[28-Feb-2014 19:02:15 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[28-Feb-2014 19:02:15 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[28-Feb-2014 19:02:15 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[28-Feb-2014 19:02:15 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[28-Feb-2014 19:02:15 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[28-Feb-2014 19:02:15 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[02-Mar-2014 08:32:19 Asia/Taipei] CSRF state token does not match one provided.
+[02-Mar-2014 08:32:19 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[02-Mar-2014 08:32:19 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[02-Mar-2014 08:32:19 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[02-Mar-2014 08:32:19 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[02-Mar-2014 08:32:19 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[02-Mar-2014 08:32:19 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[02-Mar-2014 09:04:31 Asia/Taipei] CSRF state token does not match one provided.
+[02-Mar-2014 09:04:31 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[02-Mar-2014 11:53:19 Asia/Taipei] CSRF state token does not match one provided.
+[02-Mar-2014 11:53:19 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[03-Mar-2014 01:55:46 Asia/Taipei] CSRF state token does not match one provided.
+[03-Mar-2014 01:55:46 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[03-Mar-2014 01:55:46 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[03-Mar-2014 01:55:46 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[03-Mar-2014 01:55:46 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[03-Mar-2014 01:55:46 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[03-Mar-2014 01:55:46 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[04-Mar-2014 13:42:10 Asia/Taipei] CSRF state token does not match one provided.
+[04-Mar-2014 13:42:10 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[04-Mar-2014 14:03:02 Asia/Taipei] CSRF state token does not match one provided.
+[04-Mar-2014 14:03:02 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[04-Mar-2014 14:03:02 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[04-Mar-2014 14:03:02 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[04-Mar-2014 14:03:02 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[04-Mar-2014 14:03:02 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[04-Mar-2014 14:03:02 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[06-Mar-2014 00:38:33 Asia/Taipei] CSRF state token does not match one provided.
+[06-Mar-2014 00:38:33 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[10-Mar-2014 06:47:32 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[10-Mar-2014 06:47:32 Asia/Taipei] CSRF state token does not match one provided.
+[10-Mar-2014 06:47:32 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[10-Mar-2014 06:47:32 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[10-Mar-2014 06:47:32 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[10-Mar-2014 06:47:32 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[10-Mar-2014 06:47:32 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[10-Mar-2014 06:47:32 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[24-Mar-2014 04:02:50 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[24-Mar-2014 04:02:50 Asia/Taipei] CSRF state token does not match one provided.
+[24-Mar-2014 04:02:50 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[24-Mar-2014 04:02:50 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[24-Mar-2014 04:02:50 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[24-Mar-2014 04:02:50 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[24-Mar-2014 04:02:50 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[24-Mar-2014 04:02:50 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[24-Mar-2014 04:04:38 Asia/Taipei] CSRF state token does not match one provided.
+[24-Mar-2014 04:04:38 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[24-Mar-2014 04:04:38 Asia/Taipei] CSRF state token does not match one provided.
+[24-Mar-2014 04:04:38 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[24-Mar-2014 04:04:57 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[24-Mar-2014 04:04:57 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[24-Mar-2014 04:04:57 Asia/Taipei] CSRF state token does not match one provided.
+[24-Mar-2014 04:04:58 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[24-Mar-2014 04:04:58 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[24-Mar-2014 04:04:58 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[24-Mar-2014 04:04:58 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[24-Mar-2014 04:04:58 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[24-Mar-2014 04:04:58 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[24-Mar-2014 04:07:06 Asia/Taipei] CSRF state token does not match one provided.
+[24-Mar-2014 04:07:06 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[24-Mar-2014 04:07:06 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[24-Mar-2014 04:07:06 Asia/Taipei] CSRF state token does not match one provided.
+[24-Mar-2014 04:07:06 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[24-Mar-2014 04:07:09 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[24-Mar-2014 04:07:09 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[24-Mar-2014 04:07:09 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[24-Mar-2014 04:24:01 Asia/Taipei] CSRF state token does not match one provided.
+[24-Mar-2014 04:24:02 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[24-Mar-2014 04:24:02 Asia/Taipei] CSRF state token does not match one provided.
+[24-Mar-2014 04:24:02 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[03-Apr-2014 16:45:32 Asia/Taipei] CSRF state token does not match one provided.
+[03-Apr-2014 16:45:32 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[03-Apr-2014 16:45:32 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[03-Apr-2014 16:45:32 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[03-Apr-2014 16:45:32 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[03-Apr-2014 16:45:32 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[03-Apr-2014 16:45:32 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[14-Apr-2014 11:15:39 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[14-Apr-2014 11:15:39 Asia/Taipei] CSRF state token does not match one provided.
+[14-Apr-2014 11:15:39 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[14-Apr-2014 11:15:39 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[14-Apr-2014 11:15:39 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[14-Apr-2014 11:15:39 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[14-Apr-2014 11:15:39 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[14-Apr-2014 11:15:39 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[20-Apr-2014 21:28:42 Asia/Taipei] CSRF state token does not match one provided.
+[20-Apr-2014 21:28:42 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[20-Apr-2014 21:28:42 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[20-Apr-2014 21:28:42 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[20-Apr-2014 21:28:42 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[20-Apr-2014 21:28:42 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[20-Apr-2014 21:28:42 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[23-Apr-2014 00:49:18 Asia/Taipei] CSRF state token does not match one provided.
+[23-Apr-2014 00:49:18 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[23-Apr-2014 00:49:18 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[23-Apr-2014 00:49:18 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[23-Apr-2014 00:49:18 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[23-Apr-2014 00:49:18 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[23-Apr-2014 00:49:18 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[23-Apr-2014 00:50:22 Asia/Taipei] CSRF state token does not match one provided.
+[23-Apr-2014 00:50:23 Asia/Taipei] CSRF state token does not match one provided.
+[23-Apr-2014 00:50:23 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[27-Apr-2014 12:45:42 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[27-Apr-2014 12:45:42 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[27-Apr-2014 12:45:42 Asia/Taipei] CSRF state token does not match one provided.
+[27-Apr-2014 12:45:42 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[27-Apr-2014 12:45:42 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[27-Apr-2014 12:45:42 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[27-Apr-2014 12:45:42 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[27-Apr-2014 12:45:42 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[27-Apr-2014 12:45:42 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[27-Apr-2014 12:46:30 Asia/Taipei] CSRF state token does not match one provided.
+[27-Apr-2014 12:46:30 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[27-Apr-2014 12:46:30 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[27-Apr-2014 12:46:30 Asia/Taipei] CSRF state token does not match one provided.
+[27-Apr-2014 12:46:30 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[06-May-2014 23:57:57 Asia/Taipei] CSRF state token does not match one provided.
+[06-May-2014 23:57:57 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[06-May-2014 23:57:57 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[06-May-2014 23:57:57 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[06-May-2014 23:57:57 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[06-May-2014 23:57:57 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[06-May-2014 23:57:57 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[08-May-2014 00:29:12 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[08-May-2014 00:29:12 Asia/Taipei] CSRF state token does not match one provided.
+[08-May-2014 00:29:12 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[08-May-2014 00:29:12 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[08-May-2014 00:29:12 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[08-May-2014 00:29:12 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[08-May-2014 00:29:12 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[08-May-2014 00:29:12 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[09-May-2014 06:15:59 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[09-May-2014 06:15:59 Asia/Taipei] CSRF state token does not match one provided.
+[09-May-2014 06:15:59 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[09-May-2014 06:15:59 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[09-May-2014 06:15:59 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[09-May-2014 06:15:59 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[09-May-2014 06:15:59 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[09-May-2014 06:15:59 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[09-May-2014 06:16:29 Asia/Taipei] CSRF state token does not match one provided.
+[09-May-2014 06:16:30 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[09-May-2014 06:16:30 Asia/Taipei] CSRF state token does not match one provided.
+[09-May-2014 06:16:30 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[09-May-2014 10:08:08 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[09-May-2014 10:08:08 Asia/Taipei] CSRF state token does not match one provided.
+[09-May-2014 10:08:08 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[09-May-2014 10:08:08 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[09-May-2014 10:08:08 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[09-May-2014 10:08:08 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[09-May-2014 10:08:08 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[09-May-2014 10:08:08 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[09-May-2014 17:09:26 Asia/Taipei] CSRF state token does not match one provided.
+[09-May-2014 17:09:26 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[09-May-2014 17:09:26 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[09-May-2014 17:09:26 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[09-May-2014 17:09:26 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[09-May-2014 17:09:26 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[09-May-2014 17:09:26 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[09-May-2014 18:21:50 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[09-May-2014 18:21:50 Asia/Taipei] CSRF state token does not match one provided.
+[09-May-2014 18:21:50 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[09-May-2014 18:21:50 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[09-May-2014 18:21:50 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[09-May-2014 18:21:50 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[09-May-2014 18:21:50 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[09-May-2014 18:21:50 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[09-May-2014 18:31:30 Asia/Taipei] CSRF state token does not match one provided.
+[09-May-2014 18:31:32 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[09-May-2014 18:31:32 Asia/Taipei] CSRF state token does not match one provided.
+[09-May-2014 18:31:32 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[09-May-2014 18:31:35 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[09-May-2014 18:31:35 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[10-May-2014 21:54:50 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[10-May-2014 21:54:50 Asia/Taipei] PHP Notice:  Undefined index: email in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 16
+[10-May-2014 21:54:50 Asia/Taipei] CSRF state token does not match one provided.
+[10-May-2014 21:54:50 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[10-May-2014 21:54:50 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[10-May-2014 21:54:50 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[10-May-2014 21:54:50 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[10-May-2014 21:54:50 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[10-May-2014 21:54:50 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[13-May-2014 23:53:42 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[13-May-2014 23:53:42 Asia/Taipei] CSRF state token does not match one provided.
+[13-May-2014 23:53:42 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[13-May-2014 23:53:42 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[13-May-2014 23:53:42 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[13-May-2014 23:53:42 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[13-May-2014 23:53:42 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[13-May-2014 23:53:42 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[15-May-2014 10:48:16 Asia/Taipei] CSRF state token does not match one provided.
+[15-May-2014 10:48:16 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[15-May-2014 10:48:16 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[15-May-2014 10:48:16 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[15-May-2014 10:48:16 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[15-May-2014 10:48:16 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[15-May-2014 10:48:16 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[15-May-2014 14:47:55 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[18-May-2014 14:24:42 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[18-May-2014 14:24:42 Asia/Taipei] CSRF state token does not match one provided.
+[18-May-2014 14:24:42 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[18-May-2014 14:24:42 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[18-May-2014 14:24:42 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[18-May-2014 14:24:42 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[18-May-2014 14:24:42 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[18-May-2014 14:24:42 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[23-May-2014 09:34:08 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[23-May-2014 09:34:08 Asia/Taipei] CSRF state token does not match one provided.
+[23-May-2014 09:34:09 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[23-May-2014 09:34:09 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[23-May-2014 09:34:09 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[23-May-2014 09:34:09 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[23-May-2014 09:34:09 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[23-May-2014 09:34:09 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[23-May-2014 09:35:28 Asia/Taipei] CSRF state token does not match one provided.
+[23-May-2014 09:35:29 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[23-May-2014 09:35:29 Asia/Taipei] CSRF state token does not match one provided.
+[23-May-2014 09:35:29 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[24-May-2014 01:40:55 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[24-May-2014 01:40:55 Asia/Taipei] CSRF state token does not match one provided.
+[24-May-2014 01:40:55 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[24-May-2014 01:40:55 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[24-May-2014 01:40:55 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[24-May-2014 01:40:55 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[24-May-2014 01:40:55 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[24-May-2014 01:40:55 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[24-May-2014 09:12:31 Asia/Taipei] CSRF state token does not match one provided.
+[24-May-2014 23:46:17 Asia/Taipei] PHP Notice:  Undefined index: username in /home2/ifriendc/public_html/facebook2/fbconfig.php on line 14
+[24-May-2014 23:46:17 Asia/Taipei] CSRF state token does not match one provided.
+[24-May-2014 23:46:17 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[24-May-2014 23:46:17 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[24-May-2014 23:46:17 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[24-May-2014 23:46:17 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[24-May-2014 23:46:17 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[24-May-2014 23:46:17 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
+[02-Jun-2014 01:10:20 Asia/Taipei] CSRF state token does not match one provided.
+[02-Jun-2014 01:10:20 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 58
+[02-Jun-2014 01:10:20 Asia/Taipei] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/ifriendc/public_html/facebook2/index.php on line 62
+[02-Jun-2014 01:10:20 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 68
+[02-Jun-2014 01:10:20 Asia/Taipei] PHP Notice:  Undefined variable: today in /home2/ifriendc/public_html/facebook2/index.php on line 73
+[02-Jun-2014 01:10:20 Asia/Taipei] PHP Notice:  Undefined variable: id in /home2/ifriendc/public_html/facebook2/index.php on line 77
+[02-Jun-2014 01:10:20 Asia/Taipei] PHP Notice:  Undefined variable: cid in /home2/ifriendc/public_html/facebook2/index.php on line 80
