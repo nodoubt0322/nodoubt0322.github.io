@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://nodoubt0322.github.com/test/index.html</loc>
+    <lastmod>2015-09-29T14:01:12.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://nodoubt0322.github.com/2015/09/29/helloworld/</loc>
     <lastmod>2015-09-29T06:00:58.000Z</lastmod>
   </url>
