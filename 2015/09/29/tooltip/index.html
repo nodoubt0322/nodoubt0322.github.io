@@ -3,18 +3,18 @@
 <head>
   <meta charset="utf-8">
   
-  <title>test | 我眼中不一樣的世界</title>
+  <title>tooltip with css | 我眼中不一樣的世界</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="22121333tet">
-<meta property="og:type" content="website">
-<meta property="og:title" content="test">
-<meta property="og:url" content="http://nodoubt0322.github.com/test/index.html">
+  <meta name="description" content="這寫法好處是，只要把語法匯入，在該元素直接加上tooltip的class，還有屬性，tooltip=’你想要顯示的文字’，就可以直接套用。主要是利用Pseudo class跟Pseudo element去自動產生我們要的效果。">
+<meta property="og:type" content="article">
+<meta property="og:title" content="tooltip with css">
+<meta property="og:url" content="http://nodoubt0322.github.com/2015/09/29/tooltip/index.html">
 <meta property="og:site_name" content="我眼中不一樣的世界">
-<meta property="og:description" content="22121333tet">
-<meta property="og:updated_time" content="2015-09-29T14:01:12.000Z">
+<meta property="og:description" content="這寫法好處是，只要把語法匯入，在該元素直接加上tooltip的class，還有屬性，tooltip=’你想要顯示的文字’，就可以直接套用。主要是利用Pseudo class跟Pseudo element去自動產生我們要的效果。">
+<meta property="og:updated_time" content="2015-09-29T16:13:08.000Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="test">
-<meta name="twitter:description" content="22121333tet">
+<meta name="twitter:title" content="tooltip with css">
+<meta name="twitter:description" content="這寫法好處是，只要把語法匯入，在該元素直接加上tooltip的class，還有屬性，tooltip=’你想要顯示的文字’，就可以直接套用。主要是利用Pseudo class跟Pseudo element去自動產生我們要的效果。">
   
     <link rel="alternative" href="/atom.xml" title="我眼中不一樣的世界" type="application/atom+xml">
   
@@ -36,7 +36,7 @@
 		</a>
 
 		<hgroup>
-		  <h1 class="header-author"><a href="/">nodoubt</a></h1>
+		  <h1 class="header-author"><a href="/">Daniel</a></h1>
 		</hgroup>
 
 		
@@ -114,7 +114,7 @@
 				
 				<section class="switch-part switch-part2">
 					<div class="widget tagcloud" id="js-tagcloud">
-						<a href="/tags/f2e/" style="font-size: 10px;">f2e</a>
+						<a href="/tags/css/" style="font-size: 10px;">css</a>
 					</div>
 				</section>
 				
@@ -137,7 +137,7 @@
       <nav id="mobile-nav">
   	<div class="overlay">
   		<div class="slider-trigger"></div>
-  		<h1 class="header-author js-mobile-header hide">nodoubt</h1>
+  		<h1 class="header-author js-mobile-header hide">Daniel</h1>
   	</div>
 	<div class="intrude-less">
 		<header id="header" class="inner">
@@ -145,7 +145,7 @@
 				<img lazy-src="http://nodoubt0322.github.io/img/something_good.jpg" class="js-avatar">
 			</div>
 			<hgroup>
-			  <h1 class="header-author">nodoubt</h1>
+			  <h1 class="header-author">Daniel</h1>
 			</hgroup>
 			
 			<p class="header-subtitle">show me something fabulous</p>
@@ -182,11 +182,11 @@
 		</header>				
 	</div>
 </nav>
-      <div class="body-wrap"><article id="page-undefined" class="article article-type-page" itemscope itemprop="blogPost">
+      <div class="body-wrap"><article id="post-tooltip" class="article article-type-post" itemscope itemprop="blogPost">
   
     <div class="article-meta">
-      <a href="/test/index.html" class="article-date">
-  	<time datetime="2015-09-29T12:43:37.000Z" itemprop="datePublished">2015-09-29</time>
+      <a href="/2015/09/29/tooltip/" class="article-date">
+  	<time datetime="2015-09-29T15:46:11.000Z" itemprop="datePublished">2015-09-29</time>
 </a>
     </div>
   
@@ -199,7 +199,7 @@
         
   
     <h1 class="article-title" itemprop="name">
-      test
+      tooltip with css
     </h1>
   
 
@@ -207,6 +207,10 @@
       
       <div class="article-info article-info-post">
         
+	<div class="article-tag tagcloud">
+		<ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/css/">css</a></li></ul>
+	</div>
+
         
 
         <div class="clearfix"></div>
@@ -215,8 +219,9 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <p>22121333<br>tet</p>
-
+        <p>這寫法好處是，只要把語法匯入，在該元素直接加上tooltip的class，還有屬性，tooltip=’你想要顯示的文字’，就可以直接套用。<br>主要是利用Pseudo class跟Pseudo element去自動產生我們要的效果。<br><a id="more"></a><br>利用<code>content:attr(tooltip);</code>來動態擷取在element上的屬性內容，再加上<code>white-space:nowrap;
+  transform:translateX(-50%);</code>來處理一些定位顯示的問題。<br>  範例如下：  </p>
+<iframe height="268" scrolling="no" src="//codepen.io/nodoubt0322/embed/ZGgNvM/?height=268&theme-id=0&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true" style="width: 100%;">See the Pen <a href="http://codepen.io/nodoubt0322/pen/ZGgNvM/" target="_blank" rel="external">ZGgNvM</a> by nodoubt (<a href="http://codepen.io/nodoubt0322" target="_blank" rel="external">@nodoubt0322</a>) on <a href="http://codepen.io" target="_blank" rel="external">CodePen</a>.<br></iframe>  
       
     </div>
     
@@ -267,7 +272,7 @@
   <div class="outer">
     <div id="footer-info">
     	<div class="footer-left">
-    		&copy; 2015 nodoubt
+    		&copy; 2015 Daniel
     	</div>
     </div>
   </div>
@@ -283,7 +288,7 @@
 		mathjax: true,
 		animate: true,
 		isHome: false,
-		isPost: false,
+		isPost: true,
 		isArchive: false,
 		isTag: false,
 		isCategory: false,
